@@ -1,0 +1,23 @@
+#Layout {
+    -fx-grid-lines-visible: false;
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+    -fx-padding: 10 10 10 10;
+    -fx-background-color: #36393f;
+}
+
+#Buttons {
+    -fx-pref-columns: 6;
+    -fx-pref-tile-width: 75;
+    -fx-hgap: 5;
+    -fx-vgap: 5;
+    -fx-font-size: 20px;
+    
+}
+#Title{
+    -fx-text-fill: White;
+    -fx-font-size: 50px;
+}
+
+
+
